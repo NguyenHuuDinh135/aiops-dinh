@@ -1,0 +1,24 @@
+INFO:     Started server process [74233]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50290 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55432 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55448 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45954 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45966 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45978 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45984 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44824 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44838 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54860 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34188 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34196 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34208 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34214 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36660 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36674 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36686 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59460 - "POST /ingest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59466 - "POST /ingest HTTP/1.1" 200 OK
